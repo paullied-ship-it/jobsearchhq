@@ -1,0 +1,25 @@
+{
+  "user_name": "Job Seeker",
+  "target_date": "2026-12-31",
+  "target_date_label": "My Target Date",
+  "email_sender": "you@gmail.com",
+  "email_recipient": "you@gmail.com",
+  "search_queries": [
+    "Director of Operations remote",
+    "Head of Operations remote",
+    "VP Operations remote",
+    "Director Operations process improvement",
+    "Director Continuous Improvement",
+    "General Manager Operations remote"
+  ],
+  "positive_keywords": [
+    "kpi", "sop", "vendor management", "field service", "distributed",
+    "remote operations", "scale", "process improvement", "operational excellence",
+    "deployment", "continuous improvement", "integration", "logistics",
+    "startup", "growth stage", "director", "head of operations"
+  ],
+  "negative_keywords": [
+    "revenue operations", "revops", "salesforce admin",
+    "oil and gas", "mining", "autocad", "forklift"
+  ]
+}
